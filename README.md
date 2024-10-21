@@ -12,7 +12,7 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/abhi123-rgb/testimonial-grid-section]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
@@ -29,7 +29,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Abhishek N.M](https://four-card-feature-section-psi-lovat.vercel.app/)
+- Frontend Mentor - [@abhi123-rgb](https://www.frontendmentor.io/profile/abhi123-rgb)
+- Twitter - [@AbhishekNM90072](https://x.com/AbhishekNM90072?t=BcUfBwBF1rxCxOG3MduVDQ&s=09)
 
